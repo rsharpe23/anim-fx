@@ -1,2 +1,2 @@
 # anim-fx
-See demo: http://rsharpe-blog.loc/projects/anim-fx/
+See demo: https://rsharpe-blog.ru/projects/anim-fx/
